@@ -5,3 +5,4 @@ A fun project using
 2. css
 3. js
 4. bootsrap
+Click <a href="https://fuad-24.github.io/Tic_Tac_Toe/">here</a> to play my game.
